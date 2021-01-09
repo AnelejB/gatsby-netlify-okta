@@ -1,6 +1,6 @@
 backend:
-  name: test-repo
-media_folder: static/assets
+  name: github
+media_folder: AnelejB/gatsby-netlify-okta
 public_folder: assets
 collections:
   - name: blog
