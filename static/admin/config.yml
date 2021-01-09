@@ -1,6 +1,7 @@
 backend:
   name: github
-media_folder: AnelejB/gatsby-netlify-okta
+  repo: AnelejB/gatsby-netlify-okta
+media_folder: static/assets
 public_folder: assets
 collections:
   - name: blog
